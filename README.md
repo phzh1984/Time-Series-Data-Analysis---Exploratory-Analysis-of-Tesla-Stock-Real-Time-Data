@@ -14,10 +14,15 @@ Key Metrics
 The following key metrics are analyzed in this project:
 
 Open: The opening price of Tesla's stock on a given trading day.
+
 High: The highest price reached during the trading day.
+
 Low: The lowest price reached during the trading day.
+
 Close: The closing price of Tesla's stock on a given trading day.
+
 Adjusted Close: The closing price adjusted for dividends and stock splits.
+
 Volume: The trading volume (number of shares traded) on a given trading day.
 
 
